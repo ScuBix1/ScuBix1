@@ -7,8 +7,12 @@
     MySQL
     JS
     CSS
+### And languages development 
+    Java
+    Python
+    C#
 
-### I see a MERN Stack development ⚡
+### I saw a MERN Stack development ⚡
 
     Mongo
     Express
